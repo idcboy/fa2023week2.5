@@ -1,0 +1,10 @@
+/*this is  my css page for styling my web pages*/
+/*this is to style navigation on my web pages
+most of reserves space for when /if the screen is smaller than on desktop*/
+nav{
+    height: 200px;
+    width: 100px;
+    float: left;
+    padding: 5px;
+    line-height: 50px;
+}
